@@ -130,23 +130,23 @@ The Personal Expense Tracker API is a RESTful API developed using Node.js and Ex
 ## Screenshots
 Here are some screenshots of the API calls made using Postman:
 1. POST/transactions
-    ![POST /transactions Example](screenshots/POSTtransactions-1.png)
-    ![POST /transactions Example](screenshots/POSTtransactions-2.png)
+    ![POST /transactions Example](./screenshots/POSTtransactions-1.png)
+    ![POST /transactions Example](./screenshots/POSTtransactions-2.png)
 
 2. GET/transactions
-    ![GET /transactions Example](screenshots/GETTtransactions.png)
+    ![GET /transactions Example](./screenshots/GETTtransactions.png)
 
 3. GET/transactions/:2 
-    ![GET /transactions Example](screenshots/GETtransactionsbyID.png)
+    ![GET /transactions Example](./screenshots/GETtransactionsbyID.png)
 
 4. PUT /transactions/:2
-    ![PUT /transactions Example](screenshots/PUTtransactionsbyID.png)
+    ![PUT /transactions Example](./screenshots/PUTtransactionsbyID.png)
 
 5. DELETE /transactions/2
-    ![DELETE /transactions Example](screenshots/DELETEtransactionsbyID.png)
+    ![DELETE /transactions Example](./screenshots/DELETEtransactionsbyID.png)
 
 6. GET /summary
-    ![SUMMARY /transactions Example](screenshots/summary.png)
+    ![SUMMARY /transactions Example](./screenshots/summary.png)
 
 
 
