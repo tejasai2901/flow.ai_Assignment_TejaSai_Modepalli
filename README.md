@@ -130,7 +130,7 @@ The Personal Expense Tracker API is a RESTful API developed using Node.js and Ex
 ## Screenshots
 Here are some screenshots of the API calls made using Postman:
 1. POST/transactions
-    ![POST /transactions Example](./screenshots/POSTtransactions-1.png)
+    ![image](./screenshots/POSTtransactions-1.png)
     ![POST /transactions Example](./screenshots/POSTtransactions-2.png)
 
 2. GET/transactions
